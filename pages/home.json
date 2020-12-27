@@ -1,0 +1,35 @@
+{
+    "hero": {
+        "header":"Drink Healthy <br> and Natural Coffee!" ,
+        "subtext": "We serve the verity of coffee along with the various flavours of ice-creams and brownies. The quality of the products is never compromised ",
+        "bg_img":"images/bg_img1.jpg"
+    },
+
+    "about":{
+        "header":"Welcome to My Coffee House",
+        "subtext":"Welcome to My coffee house. We serve the best coffee of the world. We are the number 1 companey in the world for the various verities of the coffeeWelcome to My coffee house. We serve the best coffee of the world. We are the number 1 companey in the world for the various verities of the coffeeWelcome to My coffee house. We serve the best coffee of the world. We are the number 1 companey in the world for the various verities of the coffee Welcome to My coffee house. We serve the best coffee of the world. We are the number 1 companey in the world for the various verities of the coffee",
+        "bg_img":"images/bg_img3.jpg",
+        "images":[
+            {"image":"images/bg_img2.jpg", "caption":"Best coffee"},
+            {"image":"images/bg_img5.jpg", "caption":"Varity"},
+            {"image":"images/bg_img4.jpg", "caption":"Premimum product"}
+        ]
+    },
+    "team": {
+        "subheader": "Team",
+        "header" : "Meet the team",
+        "members": [
+            {"name": "joe", "image":"/images/person_1.jpg", "quote":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.", "position": "owner"},
+            {"name": "Shetty", "image":"/images/person_2.jpg", "quote":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.", "position": "co-owner"},
+            {"name": "joicy", "image":"/images/person_3.jpg", "quote":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.", "position": "co-owner"},
+            {"name": "Sukh", "image":"/images/person_4.jpg", "quote":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.", "position": "marketer"}
+        ]
+    },
+
+    "order": {
+        "subheader": "Order",
+        "header": "Place an Order",
+        "bg_image": "/images/coffeeshop11.jpg"
+    }
+
+}

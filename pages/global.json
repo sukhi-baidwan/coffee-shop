@@ -1,0 +1,9 @@
+{
+    "title": "My coffee house",
+    "description": " Welcome to My coffee house. We serve the best coffee of the world. We are the number 1 companey in the world for the various verities of the coffee",
+    "hours":[
+        {"day":"Mon-Fri", "time":"6am to 10pm"},
+        {"day":"saturday", "time":"7am to 11pm"},
+        {"day":"Sunday", "time":"7am to 9pm"}
+    ]
+}
